@@ -1,0 +1,89 @@
+{
+  "props": [
+    {
+      "name": "UnnamedStyleToken",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "mAMK5GceMZbBwP"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken 2",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "qiDnElA4jf3L08"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken 3",
+      "type": "color",
+      "value": "#2C343C",
+      "category": "color",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "5xlTCe-Ul97kBk"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken 4",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "foJCvorfq5xBB3"
+      }
+    },
+    {
+      "name": "auto",
+      "type": "spacing",
+      "value": "100%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "Cmvp83ljNhNABp"
+      }
+    },
+    {
+      "name": "auto 2",
+      "type": "spacing",
+      "value": "100%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "beFEUn2WredyOh"
+      }
+    },
+    {
+      "name": "heading color",
+      "type": "color",
+      "value": "#2C343C",
+      "category": "color",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "NrruWKpioH97hm"
+      }
+    },
+    {
+      "name": "menu color",
+      "type": "color",
+      "value": "#3291FF",
+      "category": "color",
+      "meta": {
+        "projectId": "o1G3rqhWdipa595vWsoHtj",
+        "id": "SIYtTptTfwFKWW"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
